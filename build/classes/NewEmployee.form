@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="eLMN" max="32767" attributes="0"/>
+                          <Component id="eLDT" max="32767" attributes="0"/>
+                          <Component id="eLDE" max="32767" attributes="0"/>
+                          <Component id="eLPH" max="32767" attributes="0"/>
+                          <Component id="eLQL" max="32767" attributes="0"/>
+                          <Component id="eLDB" alignment="0" max="32767" attributes="0"/>
+                          <Component id="eLLN" alignment="0" max="32767" attributes="0"/>
+                          <Component id="eLAD" max="32767" attributes="0"/>
+                          <Component id="eLML" min="-2" pref="131" max="-2" attributes="0"/>
+                          <Component id="eLFN" max="32767" attributes="0"/>
+                          <Component id="jLabel1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="TEMP" min="-2" pref="97" max="-2" attributes="0"/>
+                              <EmptySpace min="148" pref="582" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="eFTMN" min="-2" pref="120" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="eLON" min="-2" pref="79" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="eTFN" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eTLN" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eTAD" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eJML" alignment="0" pref="270" max="32767" attributes="0"/>
+                                  <Component id="eQCB" alignment="0" min="-2" pref="69" max="-2" attributes="0"/>
+                                  <Component id="JDC1" alignment="0" min="-2" pref="136" max="-2" attributes="0"/>
+                                  <Component id="eTDP" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="eLPX" min="-2" pref="201" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="eFTON" min="-2" pref="118" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="JDC2" min="-2" pref="134" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="eTPH" max="32767" attributes="0"/>
+                                      <EmptySpace min="-2" pref="199" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="eBPX" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="114" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="eNLN" min="-2" pref="94" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="eNTL" min="-2" pref="120" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="eLNK" alignment="0" min="-2" pref="432" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel2" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="eNKM" alignment="0" min="-2" pref="55" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="eMLN" min="-2" pref="150" max="-2" attributes="0"/>
+                                  <Component id="eNFN" min="-2" pref="120" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="eNMP" min="-2" pref="73" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="eFMNN" min="-2" pref="120" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="eNKA" min="-2" pref="70" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="eTNK" min="-2" pref="345" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="129" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="323" max="-2" attributes="0"/>
+              <Component id="BK" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="eSV" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="eCLR" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="eEXT" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="326" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="234" max="-2" attributes="0"/>
+              <Component id="eLT" min="-2" pref="447" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Component id="eLT" min="-2" pref="58" max="-2" attributes="0"/>
+              <EmptySpace pref="7" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TEMP" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              <Component id="eTFN" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="eLFN" min="-2" pref="24" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="eLLN" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="eTLN" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="eLDB" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="JDC1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eLAD" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="eTAD" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="eJML" min="-2" max="-2" attributes="0"/>
+                          <Component id="eLML" min="-2" pref="24" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eLQL" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="eQCB" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eLPH" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="eTPH" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="eLDE" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="JDC2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eLDT" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="eTDP" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                      <Component id="eLPX" min="-2" pref="166" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="eBPX" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                          <Component id="eLON" alignment="1" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="eLMN" min="-2" pref="24" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="eFTMN" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="eFTON" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Component id="eLNK" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="eNTL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="eNLN" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  <Component id="eTNK" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="eNKA" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  <Component id="eNFN" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="eNKM" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                      <Component id="eMLN" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="eNMP" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="eFMNN" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="BK" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="eSV" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="eCLR" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="eEXT" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="eLT">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="36" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="NEW EMPLOYEE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLFN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="First name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLLN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Last name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLDB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date of birth(DD-MM-YYYY)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLAD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLML">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="e mail"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTFN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTFNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTLN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTLNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTAD">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTADActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eJML">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eJMLActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLQL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Qualification"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="eQCB">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Calibri" size="14" style="0"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="6">
+            <StringItem index="0" value="PHD"/>
+            <StringItem index="1" value="BSc"/>
+            <StringItem index="2" value="BSa"/>
+            <StringItem index="3" value="HND"/>
+            <StringItem index="4" value="OND"/>
+            <StringItem index="5" value="SSCE"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eQCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLPX">
+    </Component>
+    <Component class="javax.swing.JButton" name="eBPX">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="upload photo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eBPXActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLPH">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Post held"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTPH">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTPHActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLDE">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date of employment  (DMY)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLDT">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Department"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTDP">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTDPActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLMN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="mobile no:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLON">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="other no:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eLNK">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Calibri" size="36" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="NEXT OF KIN INFORMATION"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eNLN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Last name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eNTL">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eNTLActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="First Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eNFN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eNFNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eNMP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="mobile no:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eNKA">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eTNK">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eTNKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="eSV">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eSVActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="eCLR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eCLRActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="eEXT">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="exit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eEXTActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eNKM">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="e mail"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="eMLN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eMLNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="BK">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="com.toedter.calendar.JDateChooser" name="JDC1">
+      <Properties>
+        <Property name="dateFormatString" type="java.lang.String" value="yyyy-MM-dd "/>
+      </Properties>
+    </Component>
+    <Component class="com.toedter.calendar.JDateChooser" name="JDC2">
+      <Properties>
+        <Property name="dateFormatString" type="java.lang.String" value="yyyy-MM-dd"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JFormattedTextField" name="eFTMN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eFTMNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JFormattedTextField" name="eFTON">
+    </Component>
+    <Component class="javax.swing.JFormattedTextField" name="eFMNN">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TEMP">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Employee_id"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
